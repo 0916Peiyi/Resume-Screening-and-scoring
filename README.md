@@ -7,7 +7,9 @@ ResumeReading-This step is like data reading and data cleaning of resumes. Speci
 Keywords corpora: I built 3 corpora to build the keywords library. The first corpora is about the professional skills of data positions, and the second one is about the general skills of good candidates, and the last one is the job titles that can appear in the experience. All of these 3 corpora built the keywords library to be the basic of resume scoring function.  
 
 This is the keywords scan-matching result:
+
 ![1655923921093](https://user-images.githubusercontent.com/102696094/175114374-d8d76277-d3f4-4456-8a02-33879cbcd9e4.png)
+
 ![1655923948894](https://user-images.githubusercontent.com/102696094/175114417-0d8073ae-c8b2-4b3c-9eb4-46b23992e695.png)
 
 
